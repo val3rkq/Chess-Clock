@@ -1,5 +1,5 @@
 # Chess Clock
-The Chess Clock Flutter App is a versatile and user-friendly mobile application built using the Flutter framework. It serves as a digital chess clock, designed to meet the needs of chess enthusiasts, whether they are playing casual games or participating in competitive tournaments.
+The Chess Clock Flutter App is a versatile and user-friendly mobile application built using the Flutter framework with Hive for Database. It serves as a digital chess clock, designed to meet the needs of chess enthusiasts, whether they are playing casual games or participating in competitive tournaments.
 
 ## Features
 - Dual digital clocks for tracking player time in chess games.
